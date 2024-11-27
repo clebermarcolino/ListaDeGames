@@ -1,4 +1,4 @@
-Projeto Java SpringBoot que consiste em uma aplicação web para gerenciar listas de games. O projeto foi desenvolvido ao decorrer do intensivão JavaSpring, um evento organizado pelo professor Nélio Alves que ensinou noções básicas do framework SpringBoot.
+Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de games. O projeto foi desenvolvido ao decorrer do intensivão JavaSpring, um evento organizado pelo professor Nélio Alves que ensinou noções básicas do framework SpringBoot.
 
 ## Tecnologias
 
