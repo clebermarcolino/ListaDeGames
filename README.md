@@ -19,12 +19,12 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
 
 1. **Clone o repositório:**
    ```bash
-   git clone <link-do-seu-repositorio>
+   git clone <https://github.com/clebermarcolino/ListaDeGames.git>
    ```
 
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd <nome-do-diretorio>
+   cd <java\com\devsuperior/dslist>
    ```
 
 3. **Execute o comando abaixo para construir o projeto usando Maven (se o projeto usar Maven):**
