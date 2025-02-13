@@ -36,10 +36,6 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
    ```bash
    mvn spring-boot:run
    ```
-   **ou**
-   ```bash
-   ./gradlew bootRun
-   ```
 
 5. **Acesse a aplicação:**  A aplicação estará disponível em `http://localhost:8080`.
 
