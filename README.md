@@ -31,10 +31,6 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
    ```bash
    mvn clean install
    ```
-   **ou** execute o comando abaixo para construir o projeto usando Gradle (se o projeto usar Gradle):
-   ```bash
-   ./gradlew build
-   ```
 
 4. **Execute a aplicação:**
    ```bash
