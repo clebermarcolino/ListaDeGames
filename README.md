@@ -27,17 +27,12 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
    cd src/main/java/com/devsuperior/dslist
    ```
 
-3. **Execute o comando abaixo para construir o projeto usando Maven (se o projeto usar Maven):**
-   ```bash
-   mvn clean install
-   ```
-
-4. **Execute a aplicação:**
+3. **Execute a aplicação:**
    ```bash
    mvn spring-boot:run
    ```
 
-5. **Acesse a aplicação:**  A aplicação estará disponível em `http://localhost:8080`.
+4. **Acesse a aplicação:**  A aplicação estará disponível em `http://localhost:8080`.
 
 
 ## Rotas da API
