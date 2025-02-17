@@ -12,7 +12,7 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
 **Pré-requisitos:**
 
 * Ter o Java instalado na sua máquina.
-* Ter o Maven ou Gradle instalado na sua máquina.
+* Ter o Maven instalado na sua máquina.
 * Ter um banco de dados PostgreSQL instalado e configurado (ou altere a configuração de conexão no arquivo `application.properties`).
 
 **Passos:**
@@ -22,7 +22,7 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
    git clone https://github.com/clebermarcolino/ListaDeGames.git
    ```
 
-2. **Navegue até o diretório do projeto:**
+2. **Navegue até o diretório do projeto e digite o seguinte comando:**
    ```bash
    cd src/main/java/com/devsuperior/dslist
    ```
