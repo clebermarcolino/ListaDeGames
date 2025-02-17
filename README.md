@@ -22,7 +22,7 @@ Projeto JavaSpring que consiste em uma aplicação web para gerenciar listas de 
    git clone https://github.com/clebermarcolino/ListaDeGames.git
    ```
 
-2. **Navegue até o diretório do projeto:**
+2. **Navegue até o diretório do projeto e digite o seguinte comando:**
    ```bash
    cd src/main/java/com/devsuperior/dslist
    ```
